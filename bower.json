@@ -1,0 +1,28 @@
+{
+  "name": "react-browser-es6-boilerplate",
+  "authors": [
+    "Juan Picado (@jotadeveloper) <juanpicado19@gmail.com>"
+  ],
+  "description": "react basic configuration using es6 and jsx syntax",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "react",
+    "babel",
+    "es6",
+    "example"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.0",
+    "react-router": "~0.13.4"
+  }
+}

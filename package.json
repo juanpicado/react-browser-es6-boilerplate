@@ -1,0 +1,17 @@
+{
+  "name": "react-browser-es6-boilerplate",
+  "version": "1.0.0",
+  "description": "react basic configuration using es6 and jsx syntax",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Picado <me@jotadeveloper.com> (http://jotadeveloper.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^5.8.29"
+  }
+}
